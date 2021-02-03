@@ -1,4 +1,4 @@
-# kalkulatorvue
+# Calculator in Vue
 
 ## Project setup
 ```
